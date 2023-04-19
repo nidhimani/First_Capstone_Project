@@ -5,7 +5,7 @@ import snscrape.modules.twitter as sntwitter
 import pandas as pd
 import datetime as datetime
 import streamlit as st
-0
+
 st.title("Scrapping Data Using Twitter")   # Setting the title of the page 
 
 with st.form("Twitter_Scrapping"):
